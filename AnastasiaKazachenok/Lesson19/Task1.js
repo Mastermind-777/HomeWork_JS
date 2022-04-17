@@ -1,0 +1,1 @@
+/* Делаем Fork https://github.com/mrdavidlaing/javascript-koans вот этой репозитории и выполняем упражнения на закрепления всех пройденных тем*/

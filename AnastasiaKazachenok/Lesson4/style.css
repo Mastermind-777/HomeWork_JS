@@ -1,0 +1,48 @@
+* {
+  /* margin: 0;
+  padding: 0; */
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  font-size: 36px;
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.877);
+}
+.h1__colortext {
+  color: #fffb09e7;
+}
+h2 {
+  text-align: center;
+  font-size: 30px;
+}
+a {
+  color: #000000;
+  border-bottom: 2px solid transparent;
+  transition: 0.35s ease;
+}
+a:hover {
+  border-bottom: 2px solid #fffb09e7;
+}
+
+/* визуализация разлома шоколадки */
+.breakChainWrapper {
+  display: flex;
+  margin-bottom: 20px;
+}
+.childChainsWrapper {
+  padding: 5px;
+  border: 2px solid rgba(240, 25, 25, 0.61);
+}
+.bar {
+  margin: 20px;
+}
+.bar tr td {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(143, 67, 13);
+  border: 2px solid black;
+}
